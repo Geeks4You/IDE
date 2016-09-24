@@ -2,10 +2,11 @@
 // Individual Assignment Week 1: Basic Inputs and Outputs
 // Marcia Allen
 // September 26, 2016
-// This assignment was to write a simple program using basic inputs and outputs and
-// to familiarize myself with, and to demonstrate basic functionality.
-// Basics considered are standard includes, basic input/output streams, variables to perform calculations,
-// and appropriate comments to document what is being done in the program for understanding and future changes.
+// This assignment was to write a simple program using basic inputs and outputs and to familiarize 
+// myself with, and to demonstrate basic functionality. Basics considered are standard includes, 
+// a good C++ structure, use of standard namespace, variables to perform calculations, basic input/output 
+// streams,performs arithmetic calculations, and appropriate comments to document what is being done in the 
+// program for understanding and future changes.
 // This program calculates the area of a wall, the amount of paint needed to paint the wall, the cost of the paint,
 // and the time required to paint a wall.
 
